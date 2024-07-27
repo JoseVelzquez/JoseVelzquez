@@ -7,9 +7,6 @@
 
 - 📫 Cómo contactarme **josevelazquezolvera2@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
