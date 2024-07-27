@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo José Velázquez</h1>
 <h3 align="center">Soy ingeniero en sistemas computacionales frontend developer</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [portafolio dev](portafolio dev)
+- 👨‍💻 Todos mis proyectos están disponibles en [portafolio dev]
 
 - 💬 Pregúntame sobre **HTML, CSS, JavaScript, etc.**
 
