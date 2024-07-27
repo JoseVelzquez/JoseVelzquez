@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [portafolio dev]
 
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript, etc.**
+
 
 - 📫 Cómo contactarme **josevelazquezolvera2@gmail.com**
 
